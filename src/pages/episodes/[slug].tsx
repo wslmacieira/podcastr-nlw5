@@ -54,11 +54,17 @@ export default function Episode({ episode }: EpisodeProps) {
   )
 }
 
+// client(browser) - next.js(node.js) - server(back-end)
+
 export const getStaticPaths: GetStaticPaths = async () => {
+  // buscar os 50 mais acessados ex produtos episodios categorias
+
   return {
     paths: [],
     fallback: 'blocking'
   }
+
+  // incremental static regeneration
 }
 
 export const getStaticProps: GetStaticProps = async (ctx) => {
