@@ -13,6 +13,7 @@ type PlayerContextData = {
   currenEpisodeIndex: number;
   isPlaying: boolean;
   play: (isPlaying: boolean) => void;
+  setPlayingState: (state: boolean) => void;
   togglePlay: () => void;
 }
 
