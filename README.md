@@ -1,4 +1,3 @@
-```
 <h1 align="center">Podcastr</h1>
 
 <p align="center">
@@ -44,12 +43,10 @@ $ yarn dev
 
 ## 💻 Project
 
-Podcastr to bring you even closer to the best technology podcasts! 💜 
+Podcastr to bring you even closer to the best technology podcasts! 💜
 
 This Project was developed during the ReacJS path in the fifth edition of NLW (Next Level Week).
 
 ---
 
 [Join the Rocketseat community](https://discordapp.com/invite/gCRAFhc)
-
-```
