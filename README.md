@@ -21,26 +21,26 @@ This project was developed using the following technologies:
 
 Clone the project and access the folder
 
-​```bash
+```bash
 $ git clone https://github.com/eduardodarocha/projeto-reactjs-NLW5.git
-​```
+```
 
 Follow the steps below
 
-​```bash
+```bash
 # Install the dependencies
 $ yarn
-​```
+```
 
-​```bash
+```bash
 # Run the JSON server
 $ yarn server
-​```
+```
 
-​```bash
+```bash
 # Start the project
 $ yarn dev
-​```
+```
 
 ## 💻 Project
 
