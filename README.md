@@ -4,6 +4,7 @@
   <a href="#-tecnologias">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-licença">License</a>
 </p>
 
 <br>
@@ -46,6 +47,10 @@ $ yarn dev
 Podcastr to bring you even closer to the best technology podcasts! 💜
 
 This Project was developed during the ReacJS path in the fifth edition of NLW (Next Level Week).
+
+## 📄 License
+
+This project is under the MIT [LICENSE](LICENSE.md)
 
 ---
 
