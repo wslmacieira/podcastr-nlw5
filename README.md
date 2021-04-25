@@ -22,7 +22,7 @@ This project was developed using the following technologies:
 Clone the project and access the folder
 
 ```bash
-$ git clone https://github.com/eduardodarocha/projeto-reactjs-NLW5.git
+$ git clone https://github.com/wslmacieira/podcastr-nlw5.git
 ```
 
 Follow the steps below
